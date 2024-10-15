@@ -1,0 +1,72 @@
+<mxfile host="65bd71144e">
+    <diagram id="W6DoirAl7-RRyLDkFiMt" name="Page-1">
+        <mxGraphModel dx="814" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="70" width="200" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="N&lt;font size=&quot;3&quot;&gt;ode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="25" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="80" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="fs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="110" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="140" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="events" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="30" width="220" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="server.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="50" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="readData.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Developer module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="260" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Third Party Modules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="340" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;fontSize=18;" edge="1" parent="1" source="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="npm i&amp;nbsp; package_name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="390" width="200" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="npm i&amp;nbsp; password-generator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="400" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="495" width="415" height="415" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="node_modules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="455" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="password-generator" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="600" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="npm i&amp;nbsp; mongoosse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="430" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="mongoose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="630" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="const pg&amp;nbsp; = require('password-genrator')" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="540" width="340" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
